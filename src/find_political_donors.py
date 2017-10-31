@@ -1,4 +1,4 @@
-Program that calculates the individual political contributions
+# Program that calculates the individual political contributions
 
 # Importing the necessary modules
 import os
